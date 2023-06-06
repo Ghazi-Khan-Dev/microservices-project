@@ -1,0 +1,6 @@
+D:\java-interview\microservices-new\inventory-service\src\main\java\com\microservices\inventoryservice\model\Inventory.java
+D:\java-interview\microservices-new\inventory-service\src\main\java\com\microservices\inventoryservice\dto\InventoryRequest.java
+D:\java-interview\microservices-new\inventory-service\src\main\java\com\microservices\inventoryservice\repository\InventoryRepository.java
+D:\java-interview\microservices-new\inventory-service\src\main\java\com\microservices\inventoryservice\service\InventoryService.java
+D:\java-interview\microservices-new\inventory-service\src\main\java\com\microservices\inventoryservice\controller\InventoryController.java
+D:\java-interview\microservices-new\inventory-service\src\main\java\com\microservices\inventoryservice\InventoryServiceApplication.java
