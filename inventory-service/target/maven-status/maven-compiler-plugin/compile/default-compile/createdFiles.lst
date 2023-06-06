@@ -1,7 +1,9 @@
 com\microservices\inventoryservice\controller\InventoryController.class
 com\microservices\inventoryservice\dto\InventoryRequest.class
 com\microservices\inventoryservice\model\Inventory$InventoryBuilder.class
+com\microservices\inventoryservice\dto\InventoryResponse.class
 com\microservices\inventoryservice\service\InventoryService.class
+com\microservices\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
 com\microservices\inventoryservice\repository\InventoryRepository.class
 com\microservices\inventoryservice\InventoryServiceApplication.class
 com\microservices\inventoryservice\model\Inventory.class

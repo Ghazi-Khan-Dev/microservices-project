@@ -1,5 +1,7 @@
+D:\java-interview\microservices-new\order-service\src\main\java\com\microservices\orderservice\config\WebClientConfig.java
 D:\java-interview\microservices-new\order-service\src\main\java\com\microservices\orderservice\model\OrderLineItems.java
 D:\java-interview\microservices-new\order-service\src\main\java\com\microservices\orderservice\OrderServiceApplication.java
+D:\java-interview\microservices-new\order-service\src\main\java\com\microservices\orderservice\dto\InventoryResponse.java
 D:\java-interview\microservices-new\order-service\src\main\java\com\microservices\orderservice\controller\OrderController.java
 D:\java-interview\microservices-new\order-service\src\main\java\com\microservices\orderservice\model\Order.java
 D:\java-interview\microservices-new\order-service\src\main\java\com\microservices\orderservice\service\OrderService.java
